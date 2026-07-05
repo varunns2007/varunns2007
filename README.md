@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=33F2D8&background=000000F9&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 <!--
 **varunns2007/varunns2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
